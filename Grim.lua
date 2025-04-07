@@ -15,7 +15,9 @@ if not IncantationAddons then
 		BulkUse = {},
 		StackingIndividual = {},
 		DividingIndividual = {},
-		BulkUseIndividual = {}
+		BulkUseIndividual = {},
+		MassUse = {},
+		MassUseIndividual = {}
 	} 
 end
 
